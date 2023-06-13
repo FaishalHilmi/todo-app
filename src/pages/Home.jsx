@@ -44,7 +44,7 @@ function Home() {
   return (
     <>
       <div className="flex justify-center items-center h-screen bg-violet-950">
-        <div className="w-full lg:w-1/3 rounded-xl p-5 bg-gradient-to-tr from-indigo-400 to-indigo-900 shadow-lg">
+        <div className="w-full w-5/6 md:w-1/3 rounded-xl p-5 bg-gradient-to-tr from-indigo-400 to-indigo-900 shadow-lg">
           <div className="title flex justify-center my-4">
             <h1 className="font-mono text-4xl font-bold text-white">
               Todos App
